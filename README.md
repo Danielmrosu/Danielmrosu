@@ -52,9 +52,13 @@ I design and build things — from structured systems to 3D worlds.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danielmrosu&show_icons=true&theme=radical&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Danielmrosu&color=blueviolet&style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmrosu&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danielmrosu&show_icons=true&theme=radical&hide_border=true&retry=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmrosu&layout=compact&theme=radical&hide_border=true&retry=true)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Danielmrosu&theme=radical&no-frame=true&column=7)
 
 </div>
 
