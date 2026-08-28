@@ -28,8 +28,11 @@ I design and build things — from structured systems to 3D worlds.
 **Languages & Tools**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-222?style=for-the-badge&logo=unity&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-0696D7?style=for-the-badge&logo=autocad&logoColor=white)
+![Revit](https://img.shields.io/badge/-Revit-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe%20CC-DA1F26?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
