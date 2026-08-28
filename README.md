@@ -54,9 +54,6 @@ I design and build things — from structured systems to 3D worlds.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Danielmrosu&color=blueviolet&style=for-the-badge)
 
-![Followers](https://img.shields.io/github/followers/Danielmrosu?style=for-the-badge&color=blue&label=Followers)
-![Stars](https://img.shields.io/github/stars/Danielmrosu?style=for-the-badge&color=yellow&label=Stars)
-![Repos](https://img.shields.io/github/repos/Danielmrosu?style=for-the-badge&color=green&label=Repos)
 
 </div>
 
